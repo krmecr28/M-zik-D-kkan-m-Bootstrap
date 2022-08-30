@@ -1,0 +1,16 @@
+.list-group-item:hover {
+    background-color: red;
+}
+
+.list-group {
+    font-size: large;
+}
+
+.list-group-item a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.list-group-item a {
+    color: black;
+}
